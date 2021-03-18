@@ -1,0 +1,15 @@
+body{
+    font-family: 'Open Sans', sabs serif;
+}
+.div1{
+    background: -webkit-linear-gradient(RGBa(255, 000, 000, 0.8), RGBa(255, 000, 000, 0.1));
+    background: -o-linear-gradient(RGBa(255, 000, 000, 0.8), RGBa(255, 000, 000, 0.1));
+    background: -moz-linear-gradient(RGBa(255, 000, 000, 0.8), RGBa(255, 000, 000, 0.1));
+    background: linear-gradient(RGBa(255, 000, 000, 0.8), RGBa(255, 000, 000, 0.1));
+}
+.div2{
+    background: -webkit-radial-gradient(circle, blue, purple, red);
+    background: -o-radial-gradient(circle, blue, purple, red);
+    background: -moz-radial-gradient(circle, blue, purple, red);
+    background: radial-gradient(circle, blue, purple, red);
+}
